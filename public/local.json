@@ -1,9 +1,9 @@
 {
-  "identifier": "dev.randombits.template.local",
-  "name": "Extension Template (local)",
+  "identifier": "io.github.r0wanb3zy.markdown-editor.local",
+  "name": "Markdown Editor (local)",
   "content_type": "SN|Component",
   "area": "editor-editor",
   "version": "0.0.1",
-  "description": "A custom editor",
+  "description": "Simple Markdown syntax highlighting editor powered by CodeMirror 6",
   "url": "http://localhost:8080/"
 }

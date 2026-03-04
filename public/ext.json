@@ -1,11 +1,11 @@
 {
-  "identifier": "dev.randombits.template",
-  "name": "Extension Template",
+  "identifier": "io.github.r0wanb3zy.markdown-editor",
+  "name": "Markdown Editor",
   "content_type": "SN|Component",
   "area": "editor-editor",
   "version": "$VERSION$",
-  "description": "A custom editor",
-  "url": "https://nienow.github.io/sn-extension-template/",
-  "download_url": "https://nienow.github.io/sn-extension-template/latest.zip",
-  "latest_url": "https://nienow.github.io/sn-extension-template/ext.json"
+  "description": "Simple Markdown syntax highlighting editor powered by CodeMirror 6",
+  "url": "https://r0wanb3zy.github.io/template/",
+  "download_url": "https://r0wanb3zy.github.io/template/latest.zip",
+  "latest_url": "https://r0wanb3zy.github.io/template/ext.json"
 }
